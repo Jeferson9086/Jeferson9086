@@ -13,10 +13,10 @@
   <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="https://cdn.realsport101.com/images/ncavvykf/epicstream/989644f38336c8413cf41fded217864c94959061-1920x1039.jpg?rect=38,0,1845,1039&w=316&h=178&auto=format">
-</div> 
+  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="[https://cdn.realsport101.com/images/ncavvykf/epicstream/989644f38336c8413cf41fded217864c94959061-1920x1039.jpg?rect=38,0,1845,1039&w=316&h=178&auto=format](http://24.media.tumblr.com/a2bad5d7b3785c2f92040211b4bd8918/tumblr_mwffgpLdpx1slqs0po2_500.gif)">
+</div> //http://24.media.tumblr.com/a2bad5d7b3785c2f92040211b4bd8918/tumblr_mwffgpLdpx1slqs0po2_500.gif
   
-  ## 
+  ## //https://cdn.realsport101.com/images/ncavvykf/epicstream/989644f38336c8413cf41fded217864c94959061-1920x1039.jpg?rect=38,0,1845,1039&w=316&h=178&auto=format
   
   <div> 
      <a href="https://instagram.com/jefgon26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
