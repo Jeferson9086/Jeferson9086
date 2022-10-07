@@ -13,7 +13,7 @@
   <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Jef-pic" height="150" style="border-radius:50px;" src="https://cdn.realsport101.com/images/ncavvykf/epicstream/989644f38336c8413cf41fded217864c94959061-1920x1039.jpg?rect=38,0,1845,1039&w=316&h=178&auto=format">
 </div> 
   
   ## 
