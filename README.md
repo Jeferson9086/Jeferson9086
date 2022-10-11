@@ -14,7 +14,7 @@
   <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
  <div>
-  <img align="center" alt="Jef-pic" height="500" style="border-radius:50px;" src="http://24.media.tumblr.com/a2bad5d7b3785c2f92040211b4bd8918/tumblr_mwffgpLdpx1slqs0po2_500.gif">
+  <img align="center" alt="Jef-pic" height="200" style="border-radius:50px;" src="http://24.media.tumblr.com/a2bad5d7b3785c2f92040211b4bd8918/tumblr_mwffgpLdpx1slqs0po2_500.gif">
 </div> 
   
   ## 
