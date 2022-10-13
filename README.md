@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jeferson Gonçalves 👋
 
 
-- 🌱 Estudando Java ,Js e HTML✨ 
+- 🌱 Estudando Java ,JS e HTML✨ 
 - 🌱 Segundo semestre na Faculdade de Gestão de TI ✨
 <div align="center">
   <a href="https://github.com/Jeferson9086">
