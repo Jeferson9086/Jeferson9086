@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jeferson Gonçalves 👋
 
 
-- 🌱 Estudando Java ,JS e HTML✨ 
+- 🌱 Estudando Java ✨ 
 - 🌱 Faculdade de Gestão de TI ✨
 <div align = "center" >
   <a href="https://github.com/Jeferson9086">
@@ -11,8 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jef-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Jef-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jef-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Jef-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Jef-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Jef-pic" height="100" style="border-radius:50px;" 
     src="https://media.tenor.com/86C3bsqfSo8AAAAd/usopp-chopper.gif">
