@@ -5,7 +5,6 @@
 - 🌱 Faculdade de Gestão de TI ✨
 <div align = "center" >
   <a href="https://github.com/Jeferson9086">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jeferson9086&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson9086&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
